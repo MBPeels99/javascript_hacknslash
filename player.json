@@ -1,0 +1,31 @@
+{
+    "x": 0,
+    "y": 0,
+    "width": 96,
+    "height": 96,
+    "color": "#5500FF",
+    "invulnerability": 0,
+    "originalColor": "#5500FF",
+    "speed": 5,
+    "maxHealth": 100,
+    "maxStamina": 100,
+    "health": 100,
+    "stamina": 50,
+    "staminaRecoveryRate": 0.5,
+    "vy": 0,
+    "vx": 0,
+    "direction": "right",
+    "gravity": 0.5,
+    "jumping": false,
+    "inAir": false,
+    "jumpStrength": -15,
+    "stompPower": 10,
+    "lastAttackTime": 0,
+    "attackCooldown": 1000,
+    "attacking": false,
+    "attackBox": {
+        "width": 40,
+        "height": 10,
+        "offset": -10
+    }
+}

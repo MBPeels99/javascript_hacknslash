@@ -1,0 +1,32 @@
+{
+    "x": 0,
+    "y": 0,
+    "vy": 0,
+    "width": 48,
+    "height": 48,
+    "color": "#f6be00",
+    "speed": 2,
+    "maxHealth": 100,
+    "health": 100,
+    "dead": false,
+    "originalX": 0,
+    "inAggroMode": false,
+    "updatesUntilTurn": 100,
+    "currentUpdate": 0,
+    "aggroRange": 240,
+    "attacking": false,
+    "attackRange": 48,
+    "attackBox": {
+        "width": 24,
+        "height": 10,
+        "offset": -10
+    },
+    "weapon": "exampleWeapon",  
+    "armor": "exampleArmor",    
+    "lastAttackTime": 0,
+    "attackCooldown": 2000,
+    "platforms": [],          
+    "player": "examplePlayer", 
+    "invulnerability": 0,
+    "originalColor": "#f6be00"
+}

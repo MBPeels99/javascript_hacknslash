@@ -1,0 +1,28 @@
+{
+    "weapons": [
+        {
+            "name": "Sword",
+            "damage": 25,
+            "attackCooldown": 1000,
+            "animationDelay": 500
+        },
+        {
+            "name": "Axe",
+            "damage": 30,
+            "attackCooldown": 2000,
+            "animationDelay": 750
+        }
+    ],
+    "armor": [
+        {
+            "name": "Leather Armor",
+            "defense": 10,
+            "stompResistance": 5
+        },
+        {
+            "name": "Iron Armor",
+            "defense": 20,
+            "stompResistance": 15
+        }
+    ]
+}
